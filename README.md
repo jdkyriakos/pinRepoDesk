@@ -1,1 +1,1 @@
-![desktopOffice.gif](https://github.com/jdkyriakos/jdkyriakos/blob/221eb288962f07e143ba80bf794de7c0dcebc151/images/desktopOffice.gif)
+<script src="https://gist.github.com/jdkyriakos/c00514c6ea2880af8faf0f95cfd245aa.js"></script>
